@@ -1,6 +1,6 @@
-package Arrays;
+package Array;
 
-class LargestElement {
+public class LargestElement {
     public static void main(String[] args) {
         int[] arr = {1,2,4,5,3};
         System.out.println("Largest Element : " + largestElement(arr));

@@ -1,4 +1,4 @@
-package Arrays;
+package Array;
 
 public class CheckIfArrayIsSorted {
     public static void main(String[] args) {
